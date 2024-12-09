@@ -8642,8 +8642,8 @@ body.load-anime .anime-6{
     border-radius:50%
 }
 .circle-cursor--outer{
-    width:30px;
-    height:30px;
+    width:80px;
+    height:80px;
     border:none;
     background-color:transparent;
     border:2px solid var(--white);
